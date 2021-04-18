@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmit-s3615000-sajid-pakirdeen
+- 👋 Hi, I’m Sajid Pakirdeen
 - 👀 I’m interested in React, Javascript and other front-end technologies with back-end Java,PHP so on.
 - 🌱 I’m currently detail learning CSS 3 with HTML layout structuring
 - 💞️ I’m looking to collaborate on projects include react, api development 
